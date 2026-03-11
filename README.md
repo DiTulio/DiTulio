@@ -60,9 +60,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DiTulio/DiTulio/output/snake.svg" alt="Snake animation" />
-
-###

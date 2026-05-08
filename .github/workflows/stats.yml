@@ -2,16 +2,21 @@ name: Generate Stats Images
 
 on:
   schedule:
-    - cron: "5 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "5 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: maurodesouza/profile-readme-stats@master
+
+      - name: Generate stats SVG
+        uses: anuraghazra/github-readme-stats@latest
         with:
           username: DiTulio
+          show_icons: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

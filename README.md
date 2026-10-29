@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tenho 19 anos e sou estudante de Engenharia de Software pela FIAP, com foco em desenvolvimento web e aprendizado contínuo.<br><br>Já atuei em projetos reais em equipe, onde desenvolvi habilidades de comunicação, colaboração e uso de metodologias ágeis. Tenho experiência com atendimento ao público, o que me preparou para trabalhar bem sob pressão e com foco em resultados.<br><br>Possuo proficiência intermediária em inglês, sendo capaz de ler, escrever e ouvir confortavelmente.<br><br>Dê uma olhada em meu mais recente projeto:<br>https://lipex459-dev.github.io/vinharia-agnello/</p>
+<p align="left">Tenho 19 anos e sou estudante de Engenharia de Software pela FIAP, com foco em desenvolvimento web e aprendizado contínuo.<br><br>Já atuei em projetos reais em equipe, onde desenvolvi habilidades de comunicação, colaboração e uso de metodologias ágeis. Tenho experiência com atendimento ao público, o que me preparou para trabalhar bem sob pressão e com foco em resultados.<br><br>Possuo proficiência intermediária em inglês, sendo capaz de ler, escrever e ouvir confortavelmente.<br><br>Dê uma olhada em meu mais recente projeto:
 
 ###
 
